@@ -6,7 +6,7 @@ CHRISTIAN MATHEUS DE PAULA MELO - 202204666
 JEFFERSON FROTA CAMPOS - 202203514
 MATHEUS FELIPE ARAÚJO DE MORAES - 202204398
 
-# **iNTRODUÇÃO**
+## **INTRODUÇÃO**
 
 A utilização de drones, que utilizam IoT, em Sistemas Agrícolas está moldando e trnasformando o modo como produz (1,2). Benefícios como monitoramento ambiental, de pragas, gestão dos recursos são apenas alguns (2). No entanto, quanto maior a utilização, maior é a quantidade de dados geradas por esses dispositivos (2) e com isso, problemas relacionados a segurança e privacidade dos dados são cada vez mais frequentes (3). Pesquisas realizadas demonstram problemas neste tema e ainda buscam as melhores soluções para resolvê-los (3, 4). Neste relatório, realizamos uma busca bibliográfica sobre os problemas de privacidade e segurança de dados, a respeito dos drones que utilizam IoT e possíveis soluções para o assunto.
 
